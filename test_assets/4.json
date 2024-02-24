@@ -1,0 +1,10 @@
+{
+    "GOOGL": {
+        "type": "ALERT",
+        "LAST_PRICE": 2442.55,
+        "MOVE_TYPE": "NONE",
+        "streak": "NONE",
+        "stop_loss": "NONE",
+        "stop_loss_percent": 5
+    }
+}

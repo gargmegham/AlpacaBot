@@ -1,0 +1,202 @@
+{
+  "CDK": {
+    "type": "ALERT",
+    "LAST_PRICE": 46.74,
+    "MOVE_TYPE": "DOWN",
+    "streak": 7,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "HPQ": {
+    "type": "ALERT",
+    "LAST_PRICE": 29.275,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "ARW": {
+    "type": "ALERT",
+    "LAST_PRICE": 118.24,
+    "MOVE_TYPE": "DOWN",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "INTC": {
+    "type": "ALERT",
+    "LAST_PRICE": 53.9007,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "SNX": {
+    "type": "ALERT",
+    "LAST_PRICE": 122.57,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "YVR": {
+    "type": "ALERT",
+    "LAST_PRICE": 1.9499,
+    "MOVE_TYPE": "UP",
+    "streak": 3,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 2.5
+  },
+  "AACG": {
+    "type": "ALERT",
+    "LAST_PRICE": 2.8955,
+    "MOVE_TYPE": "DOWN",
+    "streak": 6,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "VERB": {
+    "type": "ALERT",
+    "LAST_PRICE": 2.4219,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "FVCB": {
+    "type": "ALERT",
+    "LAST_PRICE": 19.5,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "NINE": {
+    "type": "ALERT",
+    "LAST_PRICE": 2.5,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "HUDI": {
+    "type": "ALERT",
+    "LAST_PRICE": 4.42,
+    "MOVE_TYPE": "DOWN",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "RVI": {
+    "type": "ALERT",
+    "LAST_PRICE": 24.65,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "Docu": {
+    "type": "TRADE",
+    "LAST_PRICE": 24.985,
+    "MOVE_TYPE": "NONE",
+    "streak": 0,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "UPST": {
+    "type": "TRADE",
+    "LAST_PRICE": 129.29,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "TTD": {
+    "type": "TRADE",
+    "LAST_PRICE": 84.61,
+    "MOVE_TYPE": "DOWN",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "MA": {
+    "type": "TRADE",
+    "LAST_PRICE": 369.85,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "ZM": {
+    "type": "TRADE",
+    "LAST_PRICE": 401.37,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "PAYC": {
+    "type": "TRADE",
+    "LAST_PRICE": 454.49,
+    "MOVE_TYPE": "UP",
+    "streak": 3,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "PYPL": {
+    "type": "TRADE",
+    "LAST_PRICE": 279.73,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "ATVI": {
+    "type": "TRADE",
+    "LAST_PRICE": 79.46,
+    "MOVE_TYPE": "DOWN",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "NYT": {
+    "type": "TRADE",
+    "LAST_PRICE": 46.535,
+    "MOVE_TYPE": "DOWN",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "SNOW": {
+    "type": "TRADE",
+    "LAST_PRICE": 277.9599,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 5
+  },
+  "MSFT": {
+    "type": "TRADE",
+    "LAST_PRICE": 288.16,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": 275.14550399999996,
+    "stop_loss_percent": 4
+  },
+  "GPX": {
+    "type": "TRADE",
+    "LAST_PRICE": 20.4,
+    "MOVE_TYPE": "UP",
+    "streak": 1,
+    "stop_loss": "NONE",
+    "stop_loss_percent": 3
+  },
+  "ARL": {
+    "type": "TRADE",
+    "LAST_PRICE": 13.3213,
+    "MOVE_TYPE": "UP",
+    "streak": 2,
+    "stop_loss": 13.065900000000001,
+    "stop_loss_percent": 3
+  }
+}

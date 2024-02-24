@@ -1,0 +1,10 @@
+{
+    "FB": {
+        "type": "TRADE",
+        "LAST_PRICE": 340.59,
+        "MOVE_TYPE": "UP",
+        "streak": 9,
+        "stop_loss": 323.5605,
+        "stop_loss_percent": 5
+    }
+}

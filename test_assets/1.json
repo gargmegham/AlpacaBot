@@ -1,0 +1,10 @@
+{
+    "AAPL": {
+        "type": "TRADE",
+        "LAST_PRICE": 133.7,
+        "MOVE_TYPE": "UP",
+        "streak": 7,
+        "stop_loss": "NONE",
+        "stop_loss_percent": 5
+    }
+}
